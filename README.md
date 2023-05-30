@@ -1,2 +1,3 @@
-# nginx-proxy-manager
-Docker Compose File
+# Nginx Proxy Manager
+
+Link[https://nginxproxymanager.com/guide/#quick-setup]
